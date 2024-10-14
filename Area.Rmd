@@ -1,0 +1,16 @@
+---
+title: "EjemploControlVersione"
+author: "Julio"
+date: "2024-10-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+x<-0.5
+Area<- pi*x^2
+```
+
