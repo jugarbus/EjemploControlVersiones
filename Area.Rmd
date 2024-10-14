@@ -14,3 +14,8 @@ x<-0.5
 Area<- pi*x^2
 ```
 
+```{r}
+l<-0.5
+AreaCuadrado<- l^2
+```
+
